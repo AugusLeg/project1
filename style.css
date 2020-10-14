@@ -1,8 +1,8 @@
-style {margin: 10px;}
+
 body {
   font-family: 'Peddana', serif;
   font-size: 30px;
-  margin: 2em;
+  margin: 10px;
   text-align: justify;
   background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(187,230,239,1) 43%, rgba(156,219,232,1) 63%, rgba(156,219,232,1) 100%);
 }
@@ -12,6 +12,8 @@ h1 {
   font-size: 100px;
   font-style: italic;
   color: darkblue;
+  margin: 40px;
+  text-align: center;
 }
 
 h2 {
@@ -19,10 +21,13 @@ h2 {
   font-size: 50px;
   font-style: bold;
   color:  	#800000;
+  text-align: center;
 }
 
 h3 {
   font-family: 'Sansita Swashed', cursive;
   font-size: 30px;
   color: #8b0000;
+  text-align: right;
 }
+
