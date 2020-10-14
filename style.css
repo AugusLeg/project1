@@ -2,7 +2,8 @@
 body {
   font-family: 'Peddana', serif;
   font-size: 30px;
-  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
   text-align: justify;
   background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(187,230,239,1) 43%, rgba(156,219,232,1) 63%, rgba(156,219,232,1) 100%);
 }
