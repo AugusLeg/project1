@@ -10,7 +10,12 @@ h1 {
   font-family: 'Sansita Swashed', cursive;
   font-size: 100px;
   font-style: italic;
-  color: #373fff;
+  color: darkblue;
 }
 
-h2 {}
+h2 {
+  font-family: 'Sansita Swashed', cursive;
+  font-size: 50px;
+  font-style: italic;
+  color: darkblue;
+}
